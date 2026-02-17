@@ -1,5 +1,5 @@
 asyncio
-git+https://github.com/xiic/simple-pid.git@fdcf15a092434c6cfa47eac047f740d80d3b3f15#egg=simple-pid
+git+https://github.com/xiic/simple-pid.git@17b9881fe98822cb84e629760799a5ccc4dadc62#egg=simple-pid
 pytest
 pytest-cov
 pytest-homeassistant-custom-component
